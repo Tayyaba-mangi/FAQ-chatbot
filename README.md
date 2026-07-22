@@ -84,8 +84,10 @@ TF-IDF relies on exact keyword overlap and does not understand synonyms or diffe
 
 ## Author
 
-Tayyaba 
+Tayyaba
+
 Electronics Engineering Student
+
 MUET, Jamshoro
 
 ## License
